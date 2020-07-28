@@ -11,13 +11,13 @@
   
 ## Twitch
 
-<a href="https://www.twitch.tv/marcobrunodev/">Marco Bruno Dev</a>
-<a href="https://www.twitch.tv/julianatech">JulianaTech</a>
-<a href="https://www.twitch.tv/codigofalado">Código Falado</a>
-<a href="https://www.twitch.tv/devmozao">DevMozao</a>
-<a href="https://www.twitch.tv/glaucia_lemos86">Gláucia Lemos</a>
-<a href="https://www.twitch.tv/juhbotelho">Juh Botelho</a>
-<a href="https://www.twitch.tv/nomadcodemist">NomadCodemist</a>
+<p><a href="https://www.twitch.tv/marcobrunodev/">Marco Bruno Dev</a></p>
+<p><a href="https://www.twitch.tv/julianatech">JulianaTech</a></p>
+<p><a href="https://www.twitch.tv/codigofalado">Código Falado</a></p>
+<p><a href="https://www.twitch.tv/devmozao">DevMozao</a></p>
+<p><a href="https://www.twitch.tv/glaucia_lemos86">Gláucia Lemos</a></p>
+<p><a href="https://www.twitch.tv/juhbotelho">Juh Botelho</a></p>
+<p><a href="https://www.twitch.tv/nomadcodemist">NomadCodemist</a></p>
 
 ## Udemy
 
