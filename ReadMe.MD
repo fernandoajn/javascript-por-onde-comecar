@@ -1,4 +1,4 @@
-# Python.PY
+# Javascript.JS
 
 <img src="https://rafaelomarques.files.wordpress.com/2016/05/logo-javascript.png" />
 
