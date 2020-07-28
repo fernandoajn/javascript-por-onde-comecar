@@ -8,6 +8,7 @@
 ## Youtube
 
 <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso em Vídeo</a>
+<a href="https://www.youtube.com/playlist?list=PLg2lQYZDBwOSbZVEaPHNwUTj6IhQ9F3ag">BrazilJS</a>
   
 ## Twitch
 
@@ -29,4 +30,5 @@
 
 ## Livros
 
-/***/
+<p><a href="https://github.com/cezaraugusto/You-Dont-Know-JS">You Don't Know JS (série de livros)</a></p>
+<p><a href="https://github.com/braziljs/eloquente-javascript">JavaScript Eloquente - 2ª edição</a></p>
